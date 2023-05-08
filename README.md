@@ -8,8 +8,8 @@
   />
 </p>
 
-- 🌱 I’m currently learning **React, javascript, typescript** - 📫 How to reach
-me **info.canoral@gmail.com**
+- 🌱 I’m currently learning **React, javascript, typescript** 
+- 📫 How to reach me **info.canoral@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
