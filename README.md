@@ -12,12 +12,8 @@
 - 📫 How to reach me **info.canoral@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/canoral74" target="blank"
-    ><div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="canoral74" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/canoral74?trk=profile-badge">Can KAYA 🔥</a></div>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="canoral74" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/canoral74?trk=profile-badge">Can KAYA 🔥</a></div>
               
-  /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
