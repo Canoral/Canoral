@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A front-end developer specialized in React.</h3>
 
