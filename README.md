@@ -13,7 +13,16 @@
 - 📫 How to reach me **info.canoral@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="canoral74" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/canoral74?trk=profile-badge">Can KAYA 🔥</a></div>
+<p align="left">
+  <a href="https://linkedin.com/in/canoral74" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="canoral74"
+      height="30"
+      width="40"
+  /></a>
+</p>
               
 
 <h3 align="left">Languages and Tools:</h3>
