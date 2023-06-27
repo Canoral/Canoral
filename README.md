@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canoral&label=Profile%20views&color=0e75b6&style=flat" alt="canoral" /> </p>
 
-- 🌱 I’m currently learning **React & typescript**
+- 🌱 I’m currently learning **React & typescript & javascript**
 
 - 📫 How to reach me **info.canoral@gmail.com**
 
