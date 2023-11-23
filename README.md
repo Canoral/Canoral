@@ -5,7 +5,7 @@
 
 - 🌱 J'apprends actuellement **React Native** 📱
 
-- 💼 Et voici mon profil LinkedIn [https://www.linkedin.com/in/canoral74/](https://www.linkedin.com/in/canoral74/)
+- 💼 Et voici mon profil LinkedIn **https://www.linkedin.com/in/canoral74/**
 
 - 📫 Pour m'envoyer un mail => **info.canoral@gmail.com**
 
