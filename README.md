@@ -9,7 +9,7 @@
 
 - 📫 Pour m'envoyer un mail => **info.canoral@gmail.com**
 
-- 👨‍💻 Tous mes projets sont disponible à **https://infocan.vercel.app/**
+- 👨‍💻 Portefolio est disponible à **https://infocan.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
