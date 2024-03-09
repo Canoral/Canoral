@@ -1,8 +1,6 @@
 <h1 align="center">Hello 🙋‍♂️ Je suis Can</h1>
 <h3 align="center">Développeur Web 💻 & Mobile 📱 - Spécialisé en React⚛️</h3>
 
-- 🔭 Je travaille actuellement sur le projet **[Carte héritage racisme de Genève](https://github.com/Canoral/carte-interactive-geneve)**
-
 - 🌱 J'apprends actuellement **React Native** 📱
 
 - 💼 Et voici mon profil LinkedIn **https://www.linkedin.com/in/canoral74/**
