@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🙋‍♂️ Je suis Can</h1>
-<h3 align="center">Développeur Web 💻 & Mobile 📱 - Spécialisé en React⚛️</h3>
+<h3 align="center">Développeur Web Fullstack 💻 & 📱 - Spécialisé en React⚛️</h3>
 
 - 🌱 J'apprends actuellement **React Native** 📱
 
